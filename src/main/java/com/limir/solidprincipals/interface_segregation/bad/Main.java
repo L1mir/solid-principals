@@ -1,4 +1,4 @@
-package com.limir.solidprincipals.interface_segregation;
+package com.limir.solidprincipals.interface_segregation.bad;
 
 public class Main {
     public static void main(String[] args) {

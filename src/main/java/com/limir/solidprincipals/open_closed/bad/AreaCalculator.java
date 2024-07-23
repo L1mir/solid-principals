@@ -1,4 +1,4 @@
-package com.limir.solidprincipals.open_closed;
+package com.limir.solidprincipals.open_closed.bad;
 
 class AreaCalculator {
     public double calculateTotalArea(Object[] shapes) {

@@ -1,4 +1,4 @@
-package com.limir.solidprincipals.interface_segregation;
+package com.limir.solidprincipals.interface_segregation.bad;
 
 interface Worker {
     void work();

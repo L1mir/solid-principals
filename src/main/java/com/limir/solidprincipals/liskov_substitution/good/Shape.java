@@ -1,2 +1,5 @@
-package com.limir.solidprincipals.liskov_substitution.good;public class Shape {
+package com.limir.solidprincipals.liskov_substitution.good;
+
+interface Shape {
+    int getArea();
 }

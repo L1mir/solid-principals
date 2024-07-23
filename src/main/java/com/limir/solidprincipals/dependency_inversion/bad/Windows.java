@@ -1,4 +1,4 @@
-package com.limir.solidprincipals.dependency_inversion;
+package com.limir.solidprincipals.dependency_inversion.bad;
 
 public class Windows {
     private StandardKeyboard keyboard;

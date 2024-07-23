@@ -1,2 +1,5 @@
-package com.limir.solidprincipals.interface_segregation.good;public class Etable {
+package com.limir.solidprincipals.interface_segregation.good;
+
+interface Eatable {
+    void eat();
 }

@@ -1,2 +1,5 @@
-package com.limir.solidprincipals.interface_segregation;public class Workable {
+package com.limir.solidprincipals.interface_segregation.good;
+
+interface Workable {
+    void work();
 }

@@ -1,2 +1,5 @@
-package com.limir.solidprincipals.dependency_inversion;public class Keyboard {
+package com.limir.solidprincipals.dependency_inversion.good;
+
+public interface Keyboard {
+    // Keyboard interface methods
 }
